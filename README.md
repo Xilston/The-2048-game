@@ -1,4 +1,7 @@
-# Base layout template with Gulp, SCSS and Stylelint
-1. Create a repo using this template
-1. Replace `<your_account>` and `<repo_name>` with your Github username and the new repo name
-    - [DEMO LINK](https://<your_account>.github.io/<repo_name>/)
+# Logic Puzzle game "2048"
+Challenging number puzzle for kids and grown-ups:
+ - [DEMO LINK](https://xilston.github.io/The-2048-game/)
+ - [CODE](https://github.com/Xilston/The-2048-game/tree/master)
+   
+Technologies: HTML, CSS, JavaScript
+
